@@ -1,4 +1,4 @@
-Greetings, I am Cliff Chiang. I simply loved coding, and in particular websites and back-end programming. Therefore, I will keep my projects open-source on this platform. I will nickname myself's organization "Howera", though, only for convenience. I have enthusiasm in coding, in designing and creating webpages and projects in other languages.
+Greetings, I am Cliff Chiang. I simply loved coding, and in particular websites and back-end programming. Therefore, I will keep my projects open-source on this platform. I am a developer from the Howera organization. I have enthusiasm in coding, in designing and creating webpages and projects in other languages.
 
 I know:
 - C++
